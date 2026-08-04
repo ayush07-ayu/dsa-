@@ -47,6 +47,7 @@ This repository is intended for learning, practice, and interview preparation.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
