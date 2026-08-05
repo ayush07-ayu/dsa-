@@ -64,6 +64,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ayush07-ayu/dsa-/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -73,4 +74,8 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush07-ayu/dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ayush07-ayu/dsa-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
