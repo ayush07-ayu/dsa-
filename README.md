@@ -45,6 +45,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ayush07-ayu/dsa-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush07-ayu/dsa-/tree/master/0374-guess-number-higher-or-lower) |
