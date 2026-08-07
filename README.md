@@ -45,6 +45,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ayush07-ayu/dsa-/tree/master/0278-first-bad-version) |
