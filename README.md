@@ -51,6 +51,7 @@ This repository is intended for learning, practice, and interview preparation.
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayush07-ayu/dsa-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush07-ayu/dsa-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ This repository is intended for learning, practice, and interview preparation.
 | [0374-guess-number-higher-or-lower](https://github.com/ayush07-ayu/dsa-/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayush07-ayu/dsa-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayush07-ayu/dsa-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
