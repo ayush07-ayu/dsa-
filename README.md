@@ -63,6 +63,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush07-ayu/dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ayush07-ayu/dsa-/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush07-ayu/dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
@@ -88,4 +89,12 @@ This repository is intended for learning, practice, and interview preparation.
 | ------- |
 | [0278-first-bad-version](https://github.com/ayush07-ayu/dsa-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush07-ayu/dsa-/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayush07-ayu/dsa-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayush07-ayu/dsa-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
