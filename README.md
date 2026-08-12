@@ -97,4 +97,8 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush07-ayu/dsa-/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ayush07-ayu/dsa-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
