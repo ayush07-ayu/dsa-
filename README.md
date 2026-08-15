@@ -100,6 +100,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayush07-ayu/dsa-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ayush07-ayu/dsa-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayush07-ayu/dsa-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
