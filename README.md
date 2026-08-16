@@ -46,6 +46,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
@@ -104,4 +105,12 @@ This repository is intended for learning, practice, and interview preparation.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayush07-ayu/dsa-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ayush07-ayu/dsa-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayush07-ayu/dsa-/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
