@@ -101,6 +101,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/ayush07-ayu/dsa-/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/ayush07-ayu/dsa-/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayush07-ayu/dsa-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/ayush07-ayu/dsa-/tree/master/1661-average-time-of-process-per-machine) |
