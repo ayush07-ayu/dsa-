@@ -101,6 +101,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ayush07-ayu/dsa-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/ayush07-ayu/dsa-/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/ayush07-ayu/dsa-/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/ayush07-ayu/dsa-/tree/master/1280-students-and-examinations) |
