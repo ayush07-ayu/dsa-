@@ -109,6 +109,7 @@ This repository is intended for learning, practice, and interview preparation.
 | [1661-average-time-of-process-per-machine](https://github.com/ayush07-ayu/dsa-/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/ayush07-ayu/dsa-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayush07-ayu/dsa-/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/ayush07-ayu/dsa-/tree/master/1934-confirmation-rate) |
 ## Divide and Conquer
 |  |
 | ------- |
