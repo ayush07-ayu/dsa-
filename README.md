@@ -48,6 +48,7 @@ This repository is intended for learning, practice, and interview preparation.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush07-ayu/dsa-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ This repository is intended for learning, practice, and interview preparation.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush07-ayu/dsa-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ayush07-ayu/dsa-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush07-ayu/dsa-/tree/master/0374-guess-number-higher-or-lower) |
@@ -119,4 +121,8 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush07-ayu/dsa-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
