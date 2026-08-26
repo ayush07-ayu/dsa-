@@ -125,4 +125,12 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush07-ayu/dsa-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush07-ayu/dsa-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush07-ayu/dsa-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
