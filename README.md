@@ -103,6 +103,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/ayush07-ayu/dsa-/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ayush07-ayu/dsa-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/ayush07-ayu/dsa-/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/ayush07-ayu/dsa-/tree/master/0620-not-boring-movies) |
