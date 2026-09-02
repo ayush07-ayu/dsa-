@@ -90,6 +90,7 @@ This repository is intended for learning, practice, and interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush07-ayu/dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0264-ugly-number-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -129,6 +130,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
+| [0264-ugly-number-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0264-ugly-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,5 +142,10 @@ This repository is intended for learning, practice, and interview preparation.
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0264-ugly-number-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush07-ayu/dsa-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
