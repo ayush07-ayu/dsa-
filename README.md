@@ -50,6 +50,7 @@ This repository is intended for learning, practice, and interview preparation.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush07-ayu/dsa-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ayush07-ayu/dsa-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayush07-ayu/dsa-/tree/master/0875-koko-eating-bananas) |
@@ -59,6 +60,7 @@ This repository is intended for learning, practice, and interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush07-ayu/dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush07-ayu/dsa-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ayush07-ayu/dsa-/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush07-ayu/dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String
@@ -87,6 +89,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush07-ayu/dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0219-contains-duplicate-ii) |
 ## Interactive
 |  |
 | ------- |
