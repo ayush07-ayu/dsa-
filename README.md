@@ -45,6 +45,7 @@ This repository is intended for learning, practice, and interview preparation.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayush07-ayu/dsa-/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ayush07-ayu/dsa-/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayush07-ayu/dsa-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,6 +68,7 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush07-ayu/dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ayush07-ayu/dsa-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayush07-ayu/dsa-/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayush07-ayu/dsa-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
@@ -154,4 +156,8 @@ This repository is intended for learning, practice, and interview preparation.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ayush07-ayu/dsa-/tree/master/0264-ugly-number-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayush07-ayu/dsa-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
